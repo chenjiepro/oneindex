@@ -2,7 +2,7 @@
   'site_name' => 'OneIndex',
   'password' => '6531306',
   'style' => 'nexmoe',
-  'onedrive_root' => '/AV/',
+  'onedrive_root' => '/',
   'cache_type' => 'secache',
   'cache_expire_time' => 3600,
   'cache_refresh_time' => 600,
